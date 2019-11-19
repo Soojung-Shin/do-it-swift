@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ImageViewController: UIViewController {
     
     var isZoom = false
     var imgOn: UIImage?

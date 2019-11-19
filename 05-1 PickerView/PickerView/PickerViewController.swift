@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSource {
+class PickerViewController: UIViewController, UIPickerViewDelegate, UIPickerViewDataSource {
 
     let MAX_ARRAY_NUM = 10
     let PICKER_VIEW_COLUMN = 1
